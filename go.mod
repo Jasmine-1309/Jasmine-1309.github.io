@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/Jasmine-1309/Jasmine-1309.github.io
 
 go 1.21
 
