@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Jasmine AI 导航
   type: website
   description: Portfolio and personal blog of John Doe.
   image: images/author/john.png
-  url: https://hugo-toha.github.io
+  url: https://jasmine-1309.github.io
